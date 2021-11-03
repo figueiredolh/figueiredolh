@@ -1,6 +1,6 @@
 # Hi there, i am Henrique Figueiredo 👋
 
-My name is **Henrique Figueiredo**, i am from **Brazil** and i am 24 years old. I am graduated in **Computer Engineering** and i'm currently studying and discovering **Web Development** having previous experiences in **Front-End Development** using design tools to prototyping, creating and maintaining news portals.
+My name is **Henrique Figueiredo**, I am 24 years old and I am majoring in **Computer Engineering**. I am an open person and I love learn new things, from any knowledge area. I'm currently studying and discovering **Web Development** having previous experiences in **Front-End Development** using design tools to prototyping, creating and maintaining news portals.
 
 ## Languages and Skills
 
