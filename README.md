@@ -20,7 +20,7 @@ My name is **Henrique Figueiredo**, I am 24 years old and I am majoring in **Com
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60">
   <div>
   
-<h3>General Use</h3>
+<h3>General-Purpose</h3>
   
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60">
