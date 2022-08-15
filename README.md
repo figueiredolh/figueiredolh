@@ -20,7 +20,9 @@ My name is **Henrique Figueiredo**, I am 25 years old and I am graduated in **Co
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express JS" width="50" height="50">
+    <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="CSharp" width="50" height="50">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png" alt="Microsoft .NET" width="50" height="50">
+    
   <div>
   
 <h3>General-Purpose</h3>
