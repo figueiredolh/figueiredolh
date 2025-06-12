@@ -1,6 +1,6 @@
 <h1>Hi there, I am Henrique Figueiredo 👋</h1>
 
-My name is **Henrique Figueiredo**, I am 25 years old and I am graduated in **Computer Engineering**. I am an open person and I love learn new things, from any knowledge area. I'm always currently studying and discovering about **Web Development** having previous experiences in **Front-End Development** & **Back-End Development**, where I used tools for creating, prototyping and maintaining news portals and systems. Also, I have some experiences in clean code, design patterns and best practices of development.
+My name is **Henrique Figueiredo**, I am 27 years old and I am a **Computer Engineer**. I am person who loves learn new things, from any knowledge area. I'm always currently studying and discovering about **Web Development** having previous experiences in **Front-End Development** & **Back-End Development**, where I used tools for creating, prototyping and maintaining news portals and systems. Also, I have some experiences in clean code, design patterns and best practices of development.
 
 <h2>Languages and Skills</h2>
 
